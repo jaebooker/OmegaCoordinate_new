@@ -1,9 +1,10 @@
+//creating artifacts and setting them to contracts
 var Ownable = artifacts.require("./zeppelin/ownership/Ownable.sol");
 var Killable = artifacts.require("./zeppelin/lifecycle/Killable.sol");
 var Authentication = artifacts.require("./Authentication.sol");
 var Projects = artifacts.require("./Projects.sol");
 var Deadlines = artifacts.require("./Deadlines.sol");
-
+//deploying contracts
 module.exports = function(deployer) {
   deployer.deploy(Ownable);
   deployer.link(Ownable, Killable);
