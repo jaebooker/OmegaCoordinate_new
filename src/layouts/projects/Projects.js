@@ -15,7 +15,6 @@ class Projects extends Component {
     <h3 class="panel-title">Make the Internet Great Again</h3>
   </div>
   <div class="panel-body">
-  // <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" src="://amp.businessinsider.com/images/5b9235bb5c5e5254548b59f5-1136-852.jpg" data-holder-rendered="true"></img>
   <strong>Project Type</strong>: <span class="project-type">We are utilizing blockchain technology to Make The Internet Great Again</span><br/>
   <strong>Date</strong>: <span class="project-date">10/19/2018</span><br/>
   <strong>Location</strong>: <span class="project-location">Remote</span><br/><br/>
@@ -27,7 +26,6 @@ class Projects extends Component {
     <h3 class="panel-title">Fly Catching App</h3>
   </div>
   <div class="panel-body">
-  // <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" src="://amp.businessinsider.com/images/5b9235bb5c5e5254548b59f5-1136-852.jpg" data-holder-rendered="true"></img>
   <strong>Project Type</strong>: <span class="project-type">A practical app for catching house flies</span><br/>
   <strong>Date</strong>: <span class="project-date">10/01/2018</span><br/>
   <strong>Location</strong>: <span class="project-location">San Francisco</span><br/><br/>
@@ -39,7 +37,6 @@ class Projects extends Component {
     <h3 class="panel-title">Le Elon Musk</h3>
   </div>
   <div class="panel-body">
-  // <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" src="://amp.businessinsider.com/images/5b9235bb5c5e5254548b59f5-1136-852.jpg" data-holder-rendered="true"></img>
   <strong>Project Type</strong>: <span class="project-type">Using perfum engineering to make a special cologne inspired by a certain rocket-building billionaire.</span><br/>
   <strong>Date</strong>: <span class="project-date">10/10/2018</span><br/>
   <strong>Location</strong>: <span class="project-location">Paris, France</span><br/><br/>
@@ -51,7 +48,6 @@ class Projects extends Component {
     <h3 class="panel-title">Aliiive</h3>
   </div>
   <div class="panel-body">
-  // <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" src="://amp.businessinsider.com/images/5b9235bb5c5e5254548b59f5-1136-852.jpg" data-holder-rendered="true"></img>
   <strong>Project Type</strong>: <span class="project-type">A simple survey to determine if you are, in fact, alive.</span><br/>
   <strong>Date</strong>: <span class="project-date">10/20/2018</span><br/>
   <strong>Location</strong>: <span class="project-location">Remote</span><br/><br/>
@@ -63,7 +59,6 @@ class Projects extends Component {
     <h3 class="panel-title">2 Flies 2 Furious</h3>
   </div>
   <div class="panel-body">
-  // <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" src="://amp.businessinsider.com/images/5b9235bb5c5e5254548b59f5-1136-852.jpg" data-holder-rendered="true"></img>
   <strong>Project Type</strong>: <span class="project-type">When catching one fly just is not enough!</span><br/>
   <strong>Date</strong>: <span class="project-date">10/31/2018</span><br/>
   <strong>Location</strong>: <span class="project-location">Remote</span><br/><br/>
@@ -72,13 +67,12 @@ class Projects extends Component {
   </div>
   <div class="panel panel-default panel-project">
   <div class="panel-heading">
-    <h3 class="panel-title">Make the Internet Great Again</h3>
+    <h3 class="panel-title">Make the World Great Again</h3>
   </div>
   <div class="panel-body">
-  // <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" src="://amp.businessinsider.com/images/5b9235bb5c5e5254548b59f5-1136-852.jpg" data-holder-rendered="true"></img>
-  <strong>Project Type</strong>: <span class="project-type">Making the Internet Great Again</span><br/>
+  <strong>Project Type</strong>: <span class="project-type">The Earth needs to be reset. Humanity must pay.</span><br/>
   <strong>Date</strong>: <span class="project-date">102018</span><br/>
-  <strong>Location</strong>: <span class="project-location">Remote</span><br/><br/>
+  <strong>Location</strong>: <span class="project-location">Planet Earth</span><br/><br/>
   <button class="btn btn-default btn-join" type="button" var data-id-5="5">Join</button>
   </div>
   </div>
